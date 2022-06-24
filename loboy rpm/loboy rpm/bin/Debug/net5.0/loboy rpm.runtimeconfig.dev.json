@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tropo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tropo\\.nuget\\packages"
+    ]
+  }
+}
